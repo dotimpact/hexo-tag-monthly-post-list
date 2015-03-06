@@ -1,0 +1,6 @@
+{
+  "name": "hexo-tag-monthly-post-list",
+  "version": "0.0.1",
+  "description": "Monthly post list tag plugin for Hexo",
+  "main": "index"
+}
